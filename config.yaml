@@ -26,7 +26,7 @@ params:
   profileMode:
     enabled: true
     title: "于是过程是风景 结果是明信片"
-    imageUrl: 'https://postcard.lilpilot.co/logo.jpg'
+    imageUrl: 'https://postcard.lilpilot.co/logo.png'
     imageWidth: 120
     imageHeight: 120
     imageTitle: lilpilot

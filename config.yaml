@@ -32,3 +32,8 @@ params:
         url: posts/
       - name: Tags
         url: tags/
+        
+  assets:
+      favicon: "https://postcard.lilpilot.co/favicon32X32.ico"
+      favicon16x16: "https://postcard.lilpilot.co/favicon16X16.ico"
+      favicon32x32: "https://postcard.lilpilot.co/favicon16X16.ico"

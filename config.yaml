@@ -1,7 +1,8 @@
 baseURL: 'https://post.lilpilot.co/'
 languageCode: zh-cn
+defaultContentLanguage: zh-cn
 title: Postcard
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 menu:

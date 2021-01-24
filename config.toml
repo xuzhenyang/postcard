@@ -1,0 +1,24 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Postcard"
+theme = "PaperMod"
+
+[params]
+defaultTheme = "light"
+disableThemeToggle = true
+
+[params.profileMode]
+enabled = true
+title = "Postcard"
+imageUrl = "<img location>"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "my image"
+
+[[params.profileMode.buttons]]
+name = "Posts"
+url = "posts"
+
+[[params.profileMode.buttons]]
+name = "Tags"
+url = "tags"

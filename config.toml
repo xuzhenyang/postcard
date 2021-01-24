@@ -1,5 +1,5 @@
-baseURL = "http://post.lilpilot.co/"
-languageCode = "en-us"
+baseURL = "https://post.lilpilot.co/"
+languageCode = "zh-cn"
 title = "Postcard"
 theme = "PaperMod"
 
@@ -12,10 +12,10 @@ tocopen = false
 [params.profileMode]
 enabled = true
 title = "Postcard"
-imageUrl = "<img location>"
+imageUrl = "https://post.lilpilot.co/logo.jpg"
 imageWidth = 120
 imageHeight = 120
-imageTitle = "my image"
+imageTitle = "lilpilot"
 
 [[params.profileMode.buttons]]
 name = "Posts"

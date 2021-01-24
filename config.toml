@@ -6,6 +6,8 @@ theme = "PaperMod"
 [params]
 defaultTheme = "light"
 disableThemeToggle = true
+showtoc = false
+tocopen = false
 
 [params.profileMode]
 enabled = true

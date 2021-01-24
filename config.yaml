@@ -7,7 +7,7 @@ theme: PaperMod
 menu:
     main:
         - name: Archive
-          url: archives
+          url: archives/
           weight: 5
         - name: Tags
           url: tags/
@@ -26,9 +26,8 @@ params:
     imageWidth: 120
     imageHeight: 120
     imageTitle: lilpilot
-
     buttons:
       - name: Posts
-        url: posts
+        url: posts/
       - name: Tags
-        url: tags
+        url: tags/

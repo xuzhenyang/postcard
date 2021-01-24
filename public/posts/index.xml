@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Postcard</title>
-    <link>https://post.lilpilot.co/</link>
-    <description>Recent content on Postcard</description>
+    <title>Posts on Postcard</title>
+    <link>https://post.lilpilot.co/posts/</link>
+    <description>Recent content in Posts on Postcard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 24 Jan 2021 16:07:02 +0800</lastBuildDate><atom:link href="https://post.lilpilot.co/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 16:07:02 +0800</lastBuildDate><atom:link href="https://post.lilpilot.co/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mockito饮用指南</title>
       <link>https://post.lilpilot.co/posts/mockito%E9%A5%AE%E7%94%A8%E6%8C%87%E5%8D%97/</link>
@@ -26,15 +26,6 @@ Mockito本质上是代理模式的应用，mock就是创建proxy对象，在prox
 饮用搭配 doSomething() void方法或者spy对象，在mock行为时需要使用doThrow()、doAnswer()、doNothing()、doReturn()、doCallRealMethod()
 注意区分mock和spy，mock就是完全代理，spy则是部分mock，可以调用真实方法，同时也能被跟踪验证
 List list = new LinkedList(); List spy = spy(list); // 这里会抛出IndexOutOfBoundsException，因为调用了真实方法，而list实际上是个空列表 when(spy.get(0)).thenReturn(&amp;quot;foo&amp;quot;); // 使用doReturn()来设置spy.</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>https://post.lilpilot.co/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://post.lilpilot.co/archive/</guid>
-      <description>archive</description>
     </item>
     
   </channel>

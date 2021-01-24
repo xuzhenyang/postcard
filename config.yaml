@@ -22,7 +22,7 @@ params:
   profileMode:
     enabled: true
     title: Postcard
-    imageUrl: 'https://ws1.sinaimg.cn/large/8ecb5f36gy1gmyum0iaasj206y06yt8n.jpg'
+    imageUrl: 'https://postcard.lilpilot.co/logo.jpg'
     imageWidth: 120
     imageHeight: 120
     imageTitle: lilpilot

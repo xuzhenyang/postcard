@@ -1,0 +1,34 @@
+baseURL: 'https://post.lilpilot.co/'
+languageCode: zh-cn
+title: Postcard
+paginate: 5
+theme: PaperMod
+
+menu:
+    main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Tags
+          url: tags/
+          weight: 10
+
+params:
+  defaultTheme: light
+  disableThemeToggle: true
+  showtoc: false
+  tocopen: false
+
+  profileMode:
+    enabled: true
+    title: Postcard
+    imageUrl: 'https://ws1.sinaimg.cn/large/8ecb5f36gy1gmyum0iaasj206y06yt8n.jpg'
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: lilpilot
+
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags

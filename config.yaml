@@ -7,12 +7,15 @@ theme: PaperMod
 
 menu:
     main:
-        - name: Archive
-          url: archives/
-          weight: 5
+        - name: Posts
+          url: posts/
+          weight: 1
         - name: Tags
           url: tags/
-          weight: 10
+          weight: 2
+        - name: Archive
+          url: archives/
+          weight: 3
 
 params:
   defaultTheme: light
@@ -22,16 +25,11 @@ params:
 
   profileMode:
     enabled: true
-    title: Postcard
+    title: "于是过程是风景 结果是明信片"
     imageUrl: 'https://postcard.lilpilot.co/logo.jpg'
     imageWidth: 120
     imageHeight: 120
     imageTitle: lilpilot
-    buttons:
-      - name: Posts
-        url: posts/
-      - name: Tags
-        url: tags/
         
   assets:
       favicon: "https://postcard.lilpilot.co/favicon32X32.ico"

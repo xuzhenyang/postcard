@@ -16,6 +16,9 @@ menu:
         - name: Archive
           url: archives/
           weight: 3
+        - name: Newsletter
+          url: newsletter/
+          weight: 4
 
 params:
   defaultTheme: light

@@ -1,7 +1,7 @@
 ---
 title: "Sunday Musings | Vol.001"
 date: 2021-03-28
-draft: false
+draft: true
 ---
 
 嗨，这周过得怎么样？

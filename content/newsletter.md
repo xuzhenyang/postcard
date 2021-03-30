@@ -2,6 +2,9 @@
 title: "Sunday Musings"
 draft: false
 ---
+
+每周日分享一些我在思考的、我觉得有趣的。
+
 {{< rawhtml >}}
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">

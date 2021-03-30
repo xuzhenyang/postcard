@@ -19,6 +19,9 @@ menu:
         - name: Newsletter
           url: newsletter/
           weight: 4
+        - name: About
+          url: about/
+          weight: 5
 
 params:
   defaultTheme: light

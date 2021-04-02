@@ -7,6 +7,6 @@ Insert any custom code web-analytics, resources, etc. here
 </script>
 <!-- Google Analytics -->
 {{ if not .Site.IsServer }}
-{{ template "_internal/google_analytics_async.html" . }}
+{{ template "_internal/google_analytics.html" . }}
 {{ end }}
 <!-- Footer custom content area end -->

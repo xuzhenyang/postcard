@@ -4,6 +4,7 @@ defaultContentLanguage: zh-cn
 title: Postcard
 paginate: 10
 theme: PaperMod
+googleAnalytics: G-BTRHKTVZHC
 
 menu:
     main:

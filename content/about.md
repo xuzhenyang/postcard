@@ -7,7 +7,7 @@ Hi，这里是 lilpilot。
 
 正在努力成为： 👨‍💻软件工程师 Pro 🎧卧室 DJ 🍸厨房 Bartender
 
-⚽~~足球战术小白~~ 🥁~~live 无感俱乐部成员~~ 🎮~~退役游戏玩家~~
+⚽~~足球战术小白~~ 🥁~~livehouse 无感俱乐部成员~~ 🎮~~退役游戏玩家~~
 
 &nbsp;
 
@@ -24,3 +24,5 @@ Hi，这里是 lilpilot。
 Email: master@lilpilot.co
 
 Instgram: [https://www.instagram.com/lilpilot404/](https://www.instagram.com/lilpilot404/)
+
+GitHub: [https://github.com/xuzhenyang](https://github.com/xuzhenyang)

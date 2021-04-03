@@ -3,7 +3,7 @@ title: "Sunday Musings"
 draft: false
 ---
 
-每周日分享一些我在思考的、我觉得有趣的。
+每周日，你将会收到我写给你的一封信，分享我的一些想法和有趣的东西🥂
 
 {{< rawhtml >}}
 <!-- Begin Mailchimp Signup Form -->

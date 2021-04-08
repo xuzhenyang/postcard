@@ -25,7 +25,7 @@ draft: false
 
 还是以兴趣为主，阅读自己感兴趣、想了解的内容。遇到生词也没有关系，只要不影响理解句子、文章的主要含义即可。在浏览器上使用英英的查词插件来理解生词，我比较懒，没有刻意去记忆，等他出现的多了，再笨的小脑瓜也会记得的，对吧？
 
-3 月初，我订阅了互联网作家 David Perell 的 50 天写作小课堂，每天都会收到一封他的邮件，学习写作相关的知识，同时也是非常棒的英文阅读材料，他的 [个人网站](https://perell.com/) 上也有很多 blog 可以学习。当然还有订阅其他英文内容的 newsletter，P.S. 我自己的 newsletter： [Sunday Musings](https://postcard.lilpilot.co/newsletter/) ，这个创作想法之初就是源自于 David Perell 的 Monday Musings，感兴趣的话也欢迎你订阅哦！
+3 月初，我订阅了互联网作家 David Perell 的 50 天写作小课堂，每天都会收到一封他的邮件，学习写作相关的知识，同时也是非常棒的英文阅读材料，他的 [个人网站](https://perell.com/) 上也有很多 blog 可以学习。当然还有订阅其他英文内容的 newsletter，P.S. 我自己的 newsletter： [Sunday Musings](https://postcard.lilpilot.co/newsletter/) ，创作想法之初就是源自于 David Perell 的 Monday Musings，感兴趣的话也欢迎你订阅哦！
 
 最近从书箱里翻出了一本可爱的英文小说《The Curious Incident of The Dog in The Night-Time》，目前正在阅读。
 

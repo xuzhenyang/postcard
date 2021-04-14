@@ -3,6 +3,8 @@ title: "Spring 事务事件监听，为什么会出现事务失效？"
 date: 2021-03-20
 tags: ["技术博客"]
 draft: false
+keywords: ["lilpilot", "Spring", "Spring事务", "Spring事务事件监听", "Spring事务失效"]
+description: "Spring事务事件监听，分析Spring源码，出现事务失效的原因，和具体解决方案"
 ---
 
 Spring 在 4.2 版本之后提供了@TransactionlEventListener 注解，可以很方便地在事务提交后做一些处理，但是如果使用不当，或者没有正确理解其背后的运行逻辑，很容易踩坑甚至导致线上故障。

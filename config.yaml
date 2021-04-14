@@ -25,6 +25,10 @@ menu:
           weight: 5
 
 params:
+  env: production
+  title: Postcard
+  description: "lilpilot的个人网站"
+  keywords: [Blog, lilpilot]
   defaultTheme: light
   disableThemeToggle: true
   showtoc: false

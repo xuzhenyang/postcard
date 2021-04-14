@@ -1,5 +1,5 @@
 ---
-title: "Spring 事务监听，为什么会出现事务失效？"
+title: "Spring 事务事件监听，为什么会出现事务失效？"
 date: 2021-03-20
 tags: ["技术博客"]
 draft: false

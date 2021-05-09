@@ -27,7 +27,7 @@ on the rocks
 
 他也知道什么样的酒吧才是好，所以带着他的女儿，在纽约的 Bemelmans Bar 里喝着 martini。
 
-正巧上周我在 19 那儿喝了这一杯，看完电影，我也自己调了一杯。
+正巧上周在 19 那儿喝了这一杯，看完电影，我自己也调了一杯。
 
 Dumping the vermouth out, pour in four ounces of gin (or five, if you're feeling brave!)
 

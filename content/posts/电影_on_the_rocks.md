@@ -31,6 +31,6 @@ On the Rocks
 
 Dumping the vermouth out, pour in four ounces of gin (or five, if you're feeling brave!)
 
-于是，将家里最后一滴 gin 和仅剩的勇气，一饮而尽。
+“答应我，就三口”，于是，将冰箱里最后一滴 gin 和仅剩的勇气，一饮而尽。
 
 ![](https://us1.myximage.com/2021/05/09/96d8292b7eaf706899402ff89f592563.jpg)

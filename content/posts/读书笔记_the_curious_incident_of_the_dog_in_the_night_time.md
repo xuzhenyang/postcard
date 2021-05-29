@@ -1,5 +1,5 @@
 ---
-title: "不能想象没有书的世界 | 《The Curious Incident of the Dog in the Night-time》"
+title: "不能想象没有书的世界 | The Curious Incident of the Dog in the Night-time"
 date: 2021-04-13
 tags: ["读书笔记"]
 draft: false

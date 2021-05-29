@@ -7,7 +7,7 @@ draft: false
 
 ![](https://p5-tt.byteimg.com/origin/pgc-image/305e9b34b44c4731bf5bfec98e680ac8.jpg)
 
-It's about half a year since I started learning English seriously. And recently I started reading English books. As [I've written before](https://postcard.lilpilot.co/posts/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%9B%9E%E9%A1%BE_stage_two/), you can't tell others you're good at English if you rarely speak or write in English. So I'm trying to write a reading note in English.
+It's about half a year since I started learning English seriously. And recently I started reading English books. As [I've written before](https://postcard.lilpilot.co/posts/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%9B%9E%E9%A1%BE_stage_two/), you can't tell others you're good at English if you rarely speak or write. So I'm trying to write a reading note in English.
 
 *Show Your Work* is a great book, it writes about how to promote yourself, and **the key is process, not product**, all you have to do is show your work. And it's a small book, won't take you a lot of time, but worth it.
 

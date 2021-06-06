@@ -29,7 +29,8 @@ draft: false
 
 ---
 
-* 2021-05-39 | [Vol.010](https://mailchi.mp/e1f05e4575a9/sunday-musings-vol010)
+* 2021-06-06 | [Vol.011](https://mailchi.mp/9ef93cfc64d2/sunday-musings-vol011)
+* 2021-05-30 | [Vol.010](https://mailchi.mp/e1f05e4575a9/sunday-musings-vol010)
 * 2021-05-23 | [Vol.009](https://mailchi.mp/c4d515530a27/sunday-musings-vol009)
 * 2021-05-16 | [Vol.008](https://mailchi.mp/a856f14afcc1/sunday-musings-vol008)
 * 2021-05-09 | [Vol.007](https://us1.campaign-archive.com/?u=07e9d78cfc8a73bdc0a2fb080&id=118d5d9b94)

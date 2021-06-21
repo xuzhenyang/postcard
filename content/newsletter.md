@@ -29,7 +29,7 @@ draft: false
 
 ---
 
-* 2021-06-29 | [Vol.013](https://mailchi.mp/53779017b581/sunday-musings-vol013)
+* 2021-06-19 | [Vol.013](https://mailchi.mp/53779017b581/sunday-musings-vol013)
 * 2021-06-13 | [Vol.012](https://mailchi.mp/d96ed9b55fbb/sunday-musings-vol012)
 * 2021-06-06 | [Vol.011](https://mailchi.mp/9ef93cfc64d2/sunday-musings-vol011)
 * 2021-05-30 | [Vol.010](https://mailchi.mp/e1f05e4575a9/sunday-musings-vol010)

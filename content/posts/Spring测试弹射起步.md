@@ -44,7 +44,7 @@ public class RocketMQConfiguration {
 
 这里计算 Bean 初始化耗时的方式，是使用了 BeanPostProcessor 的前后扩展点，收集所有 Bean 在初始化前后的时间点，用最大时间减去最小时间，来计算整个过程的耗时。
 
-接下来我们利用 BeanFactoryPostProcessor 这个扩展点，缩短初始化的时间。
+接下来我们就利用 BeanFactoryPostProcessor 这个扩展点，缩短初始化的时间。
 
 首先回顾一下 Spring 初始化 Bean 的过程，大体上可以划分为解析配置，初始化 BeanFactory，注册 BeanDefinition，注册 BeanPostProcessor，然后初始化所有的单例 Bean，最后执行 BeanPostProcessor 的回调方法。
 

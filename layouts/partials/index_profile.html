@@ -6,6 +6,7 @@
         <br/>
         <br/>
         <h2>{{- .title | default $.Site.Title | markdownify -}}</h2>
+        <br/>
         <span>{{- .subtitle | markdownify -}}</span>
         {{- partial "social_icons.html" $.Site.Params.socialIcons -}}
 

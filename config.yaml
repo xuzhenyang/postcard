@@ -38,6 +38,7 @@ params:
   profileMode:
     enabled: true
     title: "于是过程是风景 结果是明信片"
+    subtitle: "N.U.T.S."
     imageUrl: 'https://postcard.lilpilot.co/logo.png'
     imageWidth: 120
     imageHeight: 120

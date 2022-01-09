@@ -9,6 +9,8 @@ Hi，这里是 lilpilot。
 
 **正在努力成为**： 👨‍💻软件工程师 Pro 🎧卧室 DJ 🍸厨房 Bartender
 
+那种 Dry Martini 都能一饮而尽的男子。
+
 &nbsp;
 
 ### 我的电台

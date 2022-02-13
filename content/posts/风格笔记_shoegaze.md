@@ -1,7 +1,7 @@
 ---
 title: "风格笔记_shoegaze"
 date: 2022-02-13T16:00:57+08:00
-draft: false
+draft: true
 ---
 
 Shoegaze

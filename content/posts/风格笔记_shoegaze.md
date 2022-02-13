@@ -37,40 +37,8 @@ Shoegaze（盯鞋），又名 shoegazing、自赏、盯鞋、修盖子。它兴�
 
 |  表头   | 表头  |
 |  ----  | ----  |
-| ![](https://img2.doubanio.com/view/subject/m/public/s2970693.jpg)  | Psychocandy |
-| {{< rawhtml >}}<div><img width="200" height="200" src="https://img2.doubanio.com/view/subject/m/public/s2970693.jpg"/></div>{{< /rawhtml >}} | 单元格 |
-
-{{< rawhtml >}}
-
-<table>
-    <tr>
-        <td width="80%">
-            <table>
-                <tr>
-                    <td align="right">姓名</td>
-                    <td align="left">xxx</td>
-                </tr>
-                <tr>
-                    <td align="right">性别</td>
-                    <td align="left">xxx</td>
-                </tr>
-                <tr>
-                    <td align="right">电话</td>
-                    <td align="left">xxxx</td>
-                </tr>
-                <tr>
-                    <td align="right">邮箱</td>
-                    <td align="left">xxxxxxx@xxx</td>
-                </tr>
-            </table>
-        </td>
-        <td width="20%" height="100%">
-            <img src="https://img2.doubanio.com/view/subject/m/public/s2970693.jpg" alt="我的照片" />
-        </td>
-    </tr>
-</table>
-{{< /rawhtml >}}
-
+| ![](https://img.gejiba.com/images/a73b03025eb2bfdb049c7a0034a352a1.jpg)  | Psychocandy |
+| {{< rawhtml >}}<div><img width="200" height="200" src="https://img.gejiba.com/images/a73b03025eb2bfdb049c7a0034a352a1.jpg"/></div>{{< /rawhtml >}} | 单元格 |
 
 Cocteau Twins
 

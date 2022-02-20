@@ -5,30 +5,11 @@ draft: false
 
 每周日，你将会收到一封写给你的信，分享我的一些想法和有趣的东西🥂
 
-{{< rawhtml >}}
-<!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:400px;}
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://lilpilot.us1.list-manage.com/subscribe/post?u=07e9d78cfc8a73bdc0a2fb080&amp;id=81b5002763" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<!-- <label for="mce-EMAIL">Subscribe</label> -->
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_07e9d78cfc8a73bdc0a2fb080_81b5002763" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-<!--End mc_embed_signup-->
-{{< /rawhtml >}}
+![](https://sundaymusings.zhubai.love/api/wechat/miniprogram_qrcode?page=pages%2Fpublication%2Fpublication&publication_id=2103579228729040896&scene=token%3Dsundaymusings&width=200)
 
 ---
 
+* 2022-02-20 | [Vol.048](https://sundaymusings.zhubai.love/posts/2107211581363724288)
 * 2022-02-13 | [Vol.047](https://mailchi.mp/6787ba17e19f/sunday-musings-vol047)
 * 2022-02-06 | [Vol.046](https://mailchi.mp/e014d0e99bc4/sunday-musings-vol046)
 * 2022-01-30 | [Vol.045](https://mailchi.mp/4a9d064af60a/sunday-musings-vol045)

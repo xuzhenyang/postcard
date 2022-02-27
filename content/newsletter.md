@@ -9,6 +9,7 @@ draft: false
 
 ---
 
+* 2022-02-27 | [Vol.049](https://sundaymusings.zhubai.love/posts/2109721157321220096)
 * 2022-02-20 | [Vol.048](https://sundaymusings.zhubai.love/posts/2107211581363724288)
 * 2022-02-13 | [Vol.047](https://mailchi.mp/6787ba17e19f/sunday-musings-vol047)
 * 2022-02-06 | [Vol.046](https://mailchi.mp/e014d0e99bc4/sunday-musings-vol046)

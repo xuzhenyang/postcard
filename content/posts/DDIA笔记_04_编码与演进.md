@@ -1,7 +1,7 @@
 ---
 title: "DDIA 笔记 | 04 编码与演进"
 date: 2022-02-19
-draft: false
+draft: true
 ---
 
 ## 前言

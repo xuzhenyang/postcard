@@ -1,7 +1,7 @@
 ---
 title: "DDIA 笔记 | 02 数据模型与查询语言"
 date: 2022-03-12
-draft: false
+draft: true
 ---
 
 ## 前言

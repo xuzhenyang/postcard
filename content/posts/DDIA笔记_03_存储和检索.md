@@ -1,7 +1,7 @@
 ---
 title: "DDIA 笔记 | 03 存储和检索"
 date: 2022-03-20
-draft: false
+draft: true
 ---
 
 ![](http://ddia.vonng.com/img/ch3.png)

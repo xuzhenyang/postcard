@@ -1,6 +1,7 @@
 ---
 title: "DDIA 笔记 | 存储引擎"
 date: 2022-04-05
+tags: ["技术博客"]
 draft: false
 showtoc: true
 ---

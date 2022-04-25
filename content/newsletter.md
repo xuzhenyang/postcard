@@ -3,7 +3,7 @@ title: "Sunday Musings"
 draft: false
 ---
 
-每周日，你将会收到一封写给你的信，分享我的一些想法和有趣的东西🥂
+每周日，都能收到一封写给你的信，分享我的一些想法和有趣的东西🥂
 
 ![](https://sundaymusings.zhubai.love/api/wechat/miniprogram_qrcode?page=pages%2Fpublication%2Fpublication&publication_id=2103579228729040896&scene=token%3Dsundaymusings&width=200)
 

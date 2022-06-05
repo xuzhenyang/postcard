@@ -15,9 +15,13 @@ Hi，这里是 lilpilot。
 
 ### 我的电台
 
-和朋友的对谈：[怪话贩卖机](https://y.music.163.com/m/radio?id=793244386) （暂时停更）
+和朋友的对谈：[手摇电冰箱](https://namecard.xiaoyuzhoufm.com/6arrw)
 
-我最爱的音乐：[Pilot Radio](https://y.music.163.com/m/radio?id=795032043)
+![](https://img.gejiba.com/images/00fe7f3e7ab0602dbc948a6618ac21e3.jpg)
+
+我最爱的音乐：[Pilot Radio](https://namecard.xiaoyuzhoufm.com/avxub)
+
+![](https://img.gejiba.com/images/9fc25b0a32496850444b1822a8397387.jpg)
 
 &nbsp;
 

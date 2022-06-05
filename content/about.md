@@ -15,11 +15,11 @@ Hi，这里是 lilpilot。
 
 ### 我的电台
 
-和朋友的对谈：[手摇电冰箱](https://namecard.xiaoyuzhoufm.com/6arrw)
+和朋友的对谈：[手摇电冰箱](https://www.xiaoyuzhoufm.com/podcast/6296ff6e83ddae2d9e72ae26?s=eyJ1IjogIjVlN2M2ODljYTJmMmU1MDNjZWMzODBjNCJ9)
 
 ![](https://img.gejiba.com/images/00fe7f3e7ab0602dbc948a6618ac21e3.jpg)
 
-我最爱的音乐：[Pilot Radio](https://namecard.xiaoyuzhoufm.com/avxub)
+我最爱的音乐：[Pilot Radio](https://www.xiaoyuzhoufm.com/podcast/6210e5a942107d36fefdf7e5?s=eyJ1IjogIjVlN2M2ODljYTJmMmU1MDNjZWMzODBjNCJ9)
 
 ![](https://img.gejiba.com/images/9fc25b0a32496850444b1822a8397387.jpg)
 

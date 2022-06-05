@@ -9,6 +9,7 @@ draft: false
 
 ---
 
+* 2022-06-05 | [Vol.063](https://sundaymusings.zhubai.love/posts/2145258494633840640)
 * 2022-05-29 | [Vol.062](https://sundaymusings.zhubai.love/posts/2142714964409008128)
 * 2022-05-22 | [Vol.061](https://sundaymusings.zhubai.love/posts/2140145781427609600)
 * 2022-05-15 | [Vol.060](https://sundaymusings.zhubai.love/posts/2137595258237300736)

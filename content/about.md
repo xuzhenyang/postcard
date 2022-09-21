@@ -7,7 +7,7 @@ Hi，这里是 lilpilot。
 
 ⚽足球战术小白 🥁livehouse 无感俱乐部成员 🎮退役游戏玩家
 
-**正在努力成为**： 👨‍💻软件工程师 Pro 🎧卧室 DJ 🍸厨房 Bartender
+**正在努力成为**： 👨‍💻软件工程师 Pro 🎧卧室 DJ 🍸厨房 Bartender 🎬客厅放映员
 
 那种 Dry Martini 都能一饮而尽的男子。
 
